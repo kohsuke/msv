@@ -1,4 +1,0 @@
-Manifest-Version: 1.0
-Created-By: 1.2.2 (Sun Microsystems Inc.)
-Class-Path: msv.jar xercesImpl.jar isorelax.jar relaxngDatatype.jar xsdlib.jar
-Main-Class: org.apache.xalan.xslt.Process

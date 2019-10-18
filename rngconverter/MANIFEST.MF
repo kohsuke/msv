@@ -1,5 +1,0 @@
-Manifest-Version: 1.0
-Main-Class: com.sun.msv.writer.relaxng.Driver
-Created-By: 1.2.2 (Sun Microsystems Inc.)
-Class-Path: msv.jar xerces.jar
-
